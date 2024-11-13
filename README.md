@@ -1,3 +1,4 @@
-# Automate switching your Windows #
-The script disconnects all BT devices at once.
+# Automate switching your Windows Bluethooth state#
+- The script disconnects all BT devices 
+- The shortkey can be assigned
 
